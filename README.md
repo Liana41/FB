@@ -1,7 +1,7 @@
 #Food Battle
 
 ##Online-service
-Our web-service provides you with the possibility to purchase some events, which related with cooking food or eating events, where you can take part.
+Our web-service provides you with the possibility to purchase some events, which related with cooking food or eating it and, of course, where you can take part.
 See photo with the description of other users, and take fun — you definitely need us.
 
 ##Status
