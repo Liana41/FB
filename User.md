@@ -14,7 +14,7 @@ As a guest I can log on to a previously created an account.
 
 ### №4
 
-As a user I can join battles for fun (interesting to know about this kind of event, try and train my skills, etc.)
+As a user I can join battles for fun (interesting to know about this kind of event, try and train my skills, etc).
 
 ### №5
 
@@ -26,7 +26,7 @@ As a user I can leave reviews to describe the battle / company.
 
 ### №7
 
-As a user I can take a photo and publish a description and location on the map of places that I find memorable / beautiful / interesting to try something like this and I can put them in my profile to attract public attention to me, and increase the number of subscribers.
+As a user I can take a photo and publish a description and location on the map of places and battles that I find memorable / beautiful / interesting to try something like this and I can put them in my profile to attract public attention to me, and increase the number of subscribers.
 
 ### №8
 
@@ -58,7 +58,7 @@ As the creator of the service I сan provide feedback from users to improve serv
 
 ### №15
 
-As an advertiser, I can advertise associated with binding to the sites to attract customers.
+As an advertiser I can advertise associated with binding to the sites to attract customers.
 
 ### №16
 
